@@ -1,10 +1,10 @@
 <template>
-    <header class="font-light text-xl w-11/12 text-white fixed mx-14 flex p-2">
+    <header class="font-light text-xl w-11/12 text-white fixed mx-14 flex p-2 font-create-round">
 
         <nav id="top-left-nav" class="w-2/5">
             <ul>
 
-                <li class="inline-block m-2"> <a href="#" class="font-bold"> <img src="../../public/dropbox.png" width="30" class="inline-block" height="20"> DropBox </a></li>
+                <li class="inline-block m-2"> <a href="#" class="font-bold tracking-wide text-2xl"> <img src="../../public/dropbox.png" width="30" class="inline-block" height="20"> DropBox </a></li>
                 <li class="inline-block m-2" ><a href="#" class="p-4">For Teams</a></li>
                 <li class="inline-block m-2"><a href="#" class="p-4">For Individuals</a></li>
             </ul>

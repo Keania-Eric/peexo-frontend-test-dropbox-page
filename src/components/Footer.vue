@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full text-white py-28 text-lg bg-black ">
+    <div class="w-full text-white py-28 text-lg bg-black font-inter ">
 
          <div class="w-4/5 m-auto flex ">
 

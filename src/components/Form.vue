@@ -1,5 +1,5 @@
 <template>
-    <div class="w-2/6 absolute right-0 slide-in top-0 bg-white  text-gray-700 py-10" ref="form" id="form">
+    <div class="w-2/6 absolute right-0 slide-in top-0 bg-white  text-gray-700 py-10 font-create-round" ref="form" id="form">
         <div id="links" class="mb-11">
             <nav class="w-1/2 float-right text-lg">
                 <ul>

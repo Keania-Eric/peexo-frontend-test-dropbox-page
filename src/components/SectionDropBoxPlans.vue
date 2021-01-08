@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full text-black py-32 font-bold bg-white ">
+    <div class="w-full text-black py-32 font-bold bg-white font-regular-roboto ">
 
          <div class="w-4/5 m-auto ">
            <h1 class="text-3xl mb-10">Find the right Dropbox plan for you</h1>

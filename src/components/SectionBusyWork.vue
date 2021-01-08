@@ -1,5 +1,5 @@
 <template>
-    <div class="w-full  bg-dropboxyellow ">
+    <div class="w-full  bg-dropboxyellow  font-regular-roboto">
         <div class="w-4/5 m-auto flex py-28">
             <div class="w-3/5 relative -top-36">
                 <img src="../../public/goodbye.jpg">

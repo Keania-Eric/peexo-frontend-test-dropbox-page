@@ -1,5 +1,5 @@
 <template>
-    <div class="w-4/5 m-auto text-white py-14 ">
+    <div class="w-4/5 m-auto text-white py-14 font-inter ">
          <h1 class="text-5xl text-dropboxyellow w-3/4">File storage and sharing are just the beginning</h1>
 
          <div class="flex mt-6 text-gray-400">
